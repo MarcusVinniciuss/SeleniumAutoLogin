@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selenium Py</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="login-page">
+        <div class="form" >
+          <form class="login-form">
+            <input type="text" placeholder="login" id="login"/>
+            <input type="password" placeholder="senha" id="senha"/>
+            <button class="btn" onclick="userLogar();return false" type="submit">login</button>
+            <p class="message">Not registered? <a href="#">Create an account</a></p>
+          </form>
+        </div>
+    </div>
+
+    <div class="campo_sucesso">
+      <div class="success active">
+        <h1>Logado</h1>
+      </div>
+    </div>
+
+    
+    <script src="script.js"></script>
+</body>
+</html>

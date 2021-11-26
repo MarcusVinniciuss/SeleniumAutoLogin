@@ -1,0 +1,372 @@
+1627789715075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eclrmNnYMdGA"
+1627789719888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.eclrmNnYMdGA/search.json.mozlz4", (void 0)))
+1627789727849	Marionette	INFO	Listening on port 39847
+1627789728439	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:918:3
+
+JavaScript error: resource://gre/actors/AutoplayParent.jsm, line 13: TypeError: browser is null
+1627789744475	Marionette	INFO	Stopped listening on port 39847
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627790724659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FLHDCdZoADBI"
+1627790727068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.FLHDCdZoADBI/search.json.mozlz4", (void 0)))
+1627790732247	Marionette	INFO	Listening on port 44231
+1627790732392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5500/script.js, line 1: ReferenceError: $ is not defined
+1627790758498	Marionette	INFO	Stopped listening on port 44231
+1627792656364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OLb48QMaXEPO"
+1627792658458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.OLb48QMaXEPO/search.json.mozlz4", (void 0)))
+1627792662690	Marionette	INFO	Listening on port 39743
+1627792662725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:5500/script.js, line 1: ReferenceError: $ is not defined
+1627792667801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+JavaScript error: http://127.0.0.1:5500/script.js, line 1: ReferenceError: $ is not defined
+1627792692821	Marionette	INFO	Stopped listening on port 39743
+1627795248400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HvW0Fw0hpbTk"
+1627795250409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.HvW0Fw0hpbTk/search.json.mozlz4", (void 0)))
+1627795254710	Marionette	INFO	Listening on port 43865
+1627795254823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627795268771	Marionette	INFO	Stopped listening on port 43865
+1627850089902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QlDz7kiOGGr0"
+1627850092445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.QlDz7kiOGGr0/search.json.mozlz4", (void 0)))
+1627850097129	Marionette	INFO	Listening on port 37387
+1627850097238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627850102298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627850111627	Marionette	INFO	Stopped listening on port 37387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627851309823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7DTTEuwBSzzS"
+1627851312179	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.7DTTEuwBSzzS/search.json.mozlz4", (void 0)))
+1627851317236	Marionette	INFO	Listening on port 40479
+1627851317309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627851322688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627852280051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VvxTlrFIfL1I"
+1627852282671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.VvxTlrFIfL1I/search.json.mozlz4", (void 0)))
+1627852289651	Marionette	INFO	Listening on port 40353
+1627852289760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627852301401	Marionette	INFO	Stopped listening on port 40353
+1627856211985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KeNpmHrLml8R"
+1627856214602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.KeNpmHrLml8R/search.json.mozlz4", (void 0)))
+1627856219901	Marionette	INFO	Listening on port 45035
+1627856220065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627856231018	Marionette	INFO	Stopped listening on port 45035
+1627856249089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZDO8eE0vIsoP"
+1627856251838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.ZDO8eE0vIsoP/search.json.mozlz4", (void 0)))
+1627856257197	Marionette	INFO	Listening on port 44617
+1627856257377	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627856268062	Marionette	INFO	Stopped listening on port 44617
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627856950757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W1tGfSQIYJX6"
+1627856952872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.W1tGfSQIYJX6/search.json.mozlz4", (void 0)))
+1627856957038	Marionette	INFO	Listening on port 37739
+1627856957189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627856986384	Marionette	INFO	Stopped listening on port 37739
+1627857007252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.65CWu4kVZhEf"
+1627857009584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.65CWu4kVZhEf/search.json.mozlz4", (void 0)))
+1627857014047	Marionette	INFO	Listening on port 39451
+1627857014109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627857031698	Marionette	INFO	Stopped listening on port 39451
+1627857073953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kZjjqimXHoXD"
+1627857075929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.kZjjqimXHoXD/search.json.mozlz4", (void 0)))
+1627857080139	Marionette	INFO	Listening on port 45351
+1627857080298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627857194042	Marionette	INFO	Stopped listening on port 45351
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627857208981	Marionette	INFO	Stopped listening on port 40479
+1627857211982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yyOnX9q0wp67"
+1627857213978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.yyOnX9q0wp67/search.json.mozlz4", (void 0)))
+1627857217848	Marionette	INFO	Listening on port 46017
+1627857217946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1627857222754	Marionette	INFO	Stopped listening on port 46017
+1627857246466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KDuiZdr3G5lZ"
+1627857248311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.KDuiZdr3G5lZ/search.json.mozlz4", (void 0)))
+1627857252186	Marionette	INFO	Listening on port 37065
+1627857252658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627857258132	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627857524523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ASAoeuOU8j0E"
+1627857527213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.ASAoeuOU8j0E/search.json.mozlz4", (void 0)))
+1627857532335	Marionette	INFO	Listening on port 42829
+1627857532482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627857537781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627857983454	Marionette	INFO	Stopped listening on port 37065
+1627857991979	Marionette	INFO	Stopped listening on port 42829
+1627857993699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f728MYUcxnh7"
+1627857995639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.f728MYUcxnh7/search.json.mozlz4", (void 0)))
+1627858000123	Marionette	INFO	Listening on port 37645
+1627858000276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858021715	Marionette	INFO	Stopped listening on port 37645
+1627858050711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DIufmfMJwNk8"
+1627858052703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.DIufmfMJwNk8/search.json.mozlz4", (void 0)))
+1627858057515	Marionette	INFO	Listening on port 33691
+1627858057600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858062440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858094390	Marionette	INFO	Stopped listening on port 33691
+1627858096127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tz0q28yVWm1i"
+1627858098130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.tz0q28yVWm1i/search.json.mozlz4", (void 0)))
+1627858102800	Marionette	INFO	Listening on port 46521
+1627858102882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858107586	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858107756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858117293	Marionette	INFO	Stopped listening on port 46521
+1627858226060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t2DCgbQQgPyf"
+1627858228094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.t2DCgbQQgPyf/search.json.mozlz4", (void 0)))
+1627858232559	Marionette	INFO	Listening on port 38217
+1627858232686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858266383	Marionette	INFO	Stopped listening on port 38217
+1627858272838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.571rJoAkae7p"
+1627858274842	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.571rJoAkae7p/search.json.mozlz4", (void 0)))
+1627858280102	Marionette	INFO	Listening on port 46251
+1627858280199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858285103	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858285252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858297783	Marionette	INFO	Stopped listening on port 46251
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627858367778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LBSwiRBxbCuO"
+1627858369756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.LBSwiRBxbCuO/search.json.mozlz4", (void 0)))
+1627858374414	Marionette	INFO	Listening on port 39853
+1627858374560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858380016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858380161	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858392745	Marionette	INFO	Stopped listening on port 39853
+1627858453282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tyLBeFrS5gh8"
+1627858455701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.tyLBeFrS5gh8/search.json.mozlz4", (void 0)))
+1627858460618	Marionette	INFO	Listening on port 46319
+1627858460806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858466286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858466507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858478977	Marionette	INFO	Stopped listening on port 46319
+1627858570217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WMPlNqZPABZ8"
+1627858572470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.WMPlNqZPABZ8/search.json.mozlz4", (void 0)))
+1627858577046	Marionette	INFO	Listening on port 46421
+1627858577119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858582559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858582778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858595269	Marionette	INFO	Stopped listening on port 46421
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627858924601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q1X08BDrwpsR"
+1627858926631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.q1X08BDrwpsR/search.json.mozlz4", (void 0)))
+1627858930884	Marionette	INFO	Listening on port 42085
+1627858930993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627858936019	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627858936186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627858948695	Marionette	INFO	Stopped listening on port 42085
+1627859022915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iBgxjIAVVqkB"
+1627859025379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.iBgxjIAVVqkB/search.json.mozlz4", (void 0)))
+1627859030080	Marionette	INFO	Listening on port 41993
+1627859030241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859035121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859035273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859042816	Marionette	INFO	Stopped listening on port 41993
+1627859565499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hXWZv5KKTIuc"
+1627859567760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.hXWZv5KKTIuc/search.json.mozlz4", (void 0)))
+1627859572254	Marionette	INFO	Listening on port 44227
+1627859572370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859577168	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859577312	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859584851	Marionette	INFO	Stopped listening on port 44227
+1627859627543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WmW7olJK9wXp"
+1627859629986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.WmW7olJK9wXp/search.json.mozlz4", (void 0)))
+1627859634582	Marionette	INFO	Listening on port 32839
+1627859634743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859639498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859639703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859647212	Marionette	INFO	Stopped listening on port 32839
+1627859685684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XECtBX0x7UTt"
+1627859687850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.XECtBX0x7UTt/search.json.mozlz4", (void 0)))
+1627859693041	Marionette	INFO	Listening on port 46169
+1627859693222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859697890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859698077	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859705641	Marionette	INFO	Stopped listening on port 46169
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627859810442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qw5uCabpJnZT"
+1627859812436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.qw5uCabpJnZT/search.json.mozlz4", (void 0)))
+1627859817032	Marionette	INFO	Listening on port 35517
+1627859817096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859822269	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859822458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859830014	Marionette	INFO	Stopped listening on port 35517
+1627859914930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.847o0YAAlCzJ"
+1627859916987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.847o0YAAlCzJ/search.json.mozlz4", (void 0)))
+1627859921310	Marionette	INFO	Listening on port 36613
+1627859921439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627859926357	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627859926604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1116: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1627859934254	Marionette	INFO	Stopped listening on port 36613
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
